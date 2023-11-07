@@ -1,23 +1,27 @@
 # Sulfuric acid concentrated
 
 ## Basic information
+
 - Chemical formula: ${\rm H_2 SO_4}$
 - CAS: 7664-93-9
-- International Chemical Safety Card (ICSC): 0362
+- International Chemical Safety Card (ICSC): [0362](https://inchem.org/documents/icsc/icsc/eics0362.htm)
 - Flammability: no
-- Safety datasheet: https://inchem.org/documents/icsc/icsc/eics0362.htm
+
 ## NFPA 704 (fire diamond)
+
 - **Health (blue): 3** - short exposure could cause serious temporary or moderate residual injury.
 - **Flammability (red): 0** - material will not burn under typical fire conditions, including intrinsically noncombustible materials such as concrete, stone, and sand. Material will not burn in air unless exposed to a temperature of 820 °C for more than 5 minutes.
 - **Instability–reactivity (yellow): 2** - undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water. 
 - **Special notice (white):**
 	- **W** - reacts with water in an unusual or dangerous manner.
 	- **OX** - oxidizer, allows chemicals to burn without an air supply.
+
 ## Hazard Statements
 
 | Code | Phrase                                  |
 | ---- | --------------------------------------- |
 | H314 | causes severe skin burns and eye damage |
+
 ## Precautionary statements
 
 | Code           | Phrase                                                                                                                           |
@@ -34,6 +38,7 @@
 | P363           | wash contaminated clothing before reuse                                                                                          |
 | P405           | store locked up                                                                                                                  |
 | P501           | dispose of contents/container to [HCI-Shop](https://hci-shop.ethz.ch/en/)                                                        |
+
 ## Suitable gloves
 
 Based on [Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf).

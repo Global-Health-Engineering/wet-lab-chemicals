@@ -1,12 +1,14 @@
 # Name
 
 ## Basic information
+
 - Chemical formula: 
 - CAS: 
 - International Chemical Safety Card (ICSC): 
 - Flammability: 
-- Safety datasheet: 
+
 ## NFPA 704 (fire diamond)
+
 - **Health (blue): **
 - **Flammability (red): **
 - **Instability–reactivity (yellow): **
@@ -17,11 +19,13 @@
 | Code | Phrase |
 | ---- | ------ |
 |      |        |
+
 ## Precautionary statements
 
 | Code  | Phrase |
 | ----- | ------ |
 |       |        |
+
 ## Suitable gloves
 
 Based on [Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf).
