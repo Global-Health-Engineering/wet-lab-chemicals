@@ -42,9 +42,8 @@
 
 ## Suitable gloves
 
-[Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) categorize gloves into four protection levels (very good, good, fair, poor (not recommended)) for given chemical.
+[Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) categorize gloves into four protection levels (very good, good, fair, poor (not recommended)) for given chemical. The levels of protection against concentrated sulfuric acid for four types of gloves are:
 
-Level of protection against concentrated sulfuric acid for four types of gloves:
 - Neoprane: **good**.
 - Natural latex or rubber:  **good**.
 - Buthyl:  **good**.
