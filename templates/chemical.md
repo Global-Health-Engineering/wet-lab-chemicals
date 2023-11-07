@@ -3,6 +3,7 @@
 ## Basic information
 
 - Chemical formula: 
+- Other names: 
 - CAS: 
 - International Chemical Safety Card (ICSC): 
 - Flammability: 
