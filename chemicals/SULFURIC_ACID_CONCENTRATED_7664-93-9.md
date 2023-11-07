@@ -3,6 +3,7 @@
 ## Basic information
 
 - Chemical formula: ${\rm H_2 SO_4}$
+- Other names: Oil of vitriol
 - CAS: 7664-93-9
 - International Chemical Safety Card (ICSC): [0362](https://inchem.org/documents/icsc/icsc/eics0362.htm)
 - Flammability: no
