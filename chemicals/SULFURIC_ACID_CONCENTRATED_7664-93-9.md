@@ -7,6 +7,7 @@
 - CAS: 7664-93-9
 - International Chemical Safety Card (ICSC): [0362](https://inchem.org/documents/icsc/icsc/eics0362.htm)
 - Flammability: no
+- Description: colourless oily liquid, soluble in water with release of heat, corrosive to metals and tissue, chars wood and most organic matter on contact, but unlikely to cause a fire.
 
 ## NFPA 704 (fire diamond)
 
@@ -34,11 +35,11 @@
 | P303+P361+P353 | IF ON SKIN (or hair): remove/take off immediately all contaminated clothing, rinse skin with water                               |
 | P304+P340      | IF INHALED: remove victim to fresh air and keep at rest in a position comfortable for breathing                                  |
 | P305+P351+P338 | IF IN EYES: rinse continuously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
-| P310           | immediately call a POISON CENTER or doctor/physician (ETH Emergency Desk: 888 from landline or +41 44 342 11 88 from mobile)     |
+| P310           | immediately call the ETH Emergency Desk: +41 44 342 11 88 (from mobile) or 888 (from landline)                                   |
 | P321           | specific treatment                                                                                                               |
 | P363           | wash contaminated clothing before reuse                                                                                          |
 | P405           | store locked up                                                                                                                  |
-| P501           | dispose of contents/container to [HCI-Shop](https://hci-shop.ethz.ch/en/)                                                        |
+| P501           | dispose of contents/container to [HCI-Shop](https://hci-shop.ethz.ch/en/)                                                                                      |
 
 ## Suitable gloves
 

@@ -7,6 +7,7 @@
 - CAS: 1310-58-3
 - International Chemical Safety Card (ICSC): [0375](https://inchem.org/documents/icsc/icsc/eics0357.htm)
 - Flammability: no
+- Description: clear aqueous solution, corrosive to metals and tissue.
 
 ## NFPA 704 (fire diamond)
 
@@ -30,7 +31,7 @@
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | P280           | wear protective gloves/protective clothing/eye protection/face protection                                                        |
 | P305+P351+P338 | IF IN EYES: rinse continuously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
-| P310           | immediately call a POISON CENTER or doctor/physician (ETH Emergency Desk: 888 from landline or +41 44 342 11 88 from mobile)     |
+| P310           | immediately call the ETH Emergency Desk: +41 44 342 11 88 (from mobile) or 888 (from landline)                                   |
 
 ## Suitable gloves
 

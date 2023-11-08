@@ -7,6 +7,7 @@
 - CAS: 7647-01-0
 - International Chemical Safety Card (ICSC): [0163](https://inchem.org/documents/icsc/icsc/eics0163.htm)
 - Flammability: no
+- Description: colourless liquid/gas with a sharp, pungent odour, fumes strongly in moist air, corrosive to metals and tissues and irritating to the eyes and respiratory system, heavier than air.
 
 ## NFPA 704 (fire diamond)
 
@@ -31,7 +32,7 @@
 | P261           | avoid breathing dust/fume/gas/mist/vapours/spray                                                                                 |
 | P280           | wear protective gloves/protective clothing/eye protection/face protection                                                        |
 | P305+P351+P338 | IF IN EYES: rinse continuously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
-| P310           | immediately call a POISON CENTER or doctor/physician (ETH Emergency Desk: 888 from landline or +41 44 342 11 88 from mobile)     | 
+| P310           | immediately call the ETH Emergency Desk: +41 44 342 11 88 (from mobile) or 888 (from landline)                                   |
 | P410+P403      | protect from sunlight, store in a well ventilated place                                                                          |
 
 ## Suitable gloves

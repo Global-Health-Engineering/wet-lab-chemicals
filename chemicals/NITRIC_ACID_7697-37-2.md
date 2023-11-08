@@ -3,10 +3,11 @@
 ## Basic information
 
 - Chemical formula(s): ${\rm HNO_3}$
-- Other names: -
+- Other names: aqua fortis, engravers acid, hydrogen nitrate, red fuming nitric acid (RFNA), white fuming nitric acid (WFNA)
 - CAS: 7697-37-2
 - International Chemical Safety Card (ICSC): [0183](https://inchem.org/documents/icsc/icsc/eics0183.htm)
 - Flammability: no
+- Description: pale yellow to reddish brown liquid generating red-brown fumes and having a suffocating odour, very toxic by inhalation, corrosive to metals and tissue.
 
 ## NFPA 704 (fire diamond)
 
@@ -29,14 +30,14 @@
 
 ## Precautionary statements
 
-| Code           | Phrase                                                                                                                           |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| P210           | keep away from heat, hot surfaces, sparks, open flames and other ignition sources, no smoking                                    |
-| P220           | keep/store away from clothing/.../combustible materials                                                                          |
-| P260           | do not breathe dust/fume/gas/mist/vapours/spray                                                                                  |
-| P305+P351+P338 | IF IN EYES: rinse continuously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
-| P310           | immediately call a POISON CENTER or doctor/physician (ETH Emergency Desk: 888 from landline or +41 44 342 11 88 from mobile)     |
-| P370+P378      | in case of fire: use ... to extinguish                                                                                           |
+| Code           | Phrase                                                                                                                               |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| P210           | keep away from heat, hot surfaces, sparks, open flames and other ignition sources, no smoking                                        |
+| P220           | keep/store away from clothing/.../combustible materials                                                                              |
+| P260           | do not breathe dust/fume/gas/mist/vapours/spray                                                                                      |
+| P305+P351+P338 | IF IN EYES: rinse continuously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing     |
+| P310           | immediately call the ETH Emergency Desk: 888 (from landline) or +41 44 342 11 88 (from mobile)                                       |
+| P370+P378      | IN CASE OF FIRE: use water spray to reduce vapours, poisonous gases are produced in fire, DO NOT use chemicals or foam to extinguish | 
 
 ## Suitable gloves
 
