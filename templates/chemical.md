@@ -2,11 +2,12 @@
 
 ## Basic information
 
-- Chemical formula: 
+- Chemical formula(s): 
 - Other names: 
 - CAS: 
 - International Chemical Safety Card (ICSC): 
 - Flammability: 
+- Description: 
 
 ## NFPA 704 (fire diamond)
 
