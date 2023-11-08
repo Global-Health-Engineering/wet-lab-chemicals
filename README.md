@@ -13,6 +13,7 @@ In case of emergency in the laboratory:
 *(Click on a chemical to see the safety information).*
 
 - [acetone](chemicals/ACETONE_67-64-1.md)
+- [ethanoic acid (acetic acid)](chemicals/ETHANOIC_ACID_64-19-7.md)
 - [hexane](chemicals/HEXANE_110-54-3.md)
 - [hydrogen chloride](chemicals/HYDROGEN_CHLORIDE_7647-01-0.md)
 - [methanol](chemicals/METHANOL_67-56-1.md)
@@ -27,4 +28,4 @@ In case of emergency in the laboratory:
 
 ## Disclaimer
 
-Although every effort has been made to provide complete and accurate information, Global Health Engineering makes no warranties, express or implied, or representations as to the accuracy of content of this repo. GHE assumes no liability or responsibility for any error or omissions in the information contained in the repo, when cloned and used by other groups or users outside GHE. Every person outside GHE, working to the information provided in this repo is responsible for its verification and validation.
+Although every effort has been made to provide complete and accurate information, Global Health Engineering makes no warranties, express or implied, or representations as to the accuracy of content of this repo. GHE assumes no liability or responsibility for any error or omissions in the information contained in the repo, when cloned and used by other groups or users outside GHE. Every person outside GHE, using the information provided in this repo is responsible for its verification and validation.
