@@ -35,3 +35,5 @@
 - Natural latex or rubber: 
 - Buthyl: 
 - Nitrile: 
+
+[Back to main page](https://github.com/Global-Health-Engineering/wet-lab-chemicals)
