@@ -2,7 +2,7 @@
 
 ## Basic information
 
-- Chemical formula: ${\rm H_2 SO_4}$
+- Chemical formula(s): ${\rm H_2 SO_4}$
 - Other names: Oil of vitriol
 - CAS: 7664-93-9
 - International Chemical Safety Card (ICSC): [0362](https://inchem.org/documents/icsc/icsc/eics0362.htm)
@@ -48,3 +48,5 @@
 - Natural latex or rubber:  **good**.
 - Buthyl:  **good**.
 - Nitrile:  **good**.
+
+[Back to main page](https://github.com/Global-Health-Engineering/wet-lab-chemicals)

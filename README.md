@@ -6,6 +6,8 @@ This repo contains safety information on all chemicals used in the laboratory of
 
 *(Click on a chemical to see the safety information).*
 
-- [Hydrogen chloride](chemicals/HYDROGEN_CHLORIDE_7647-01-0.md)
-- [Nitric acid](chemicals/NITRIC_ACID_7697-37-2.md)
-- [Sulfuric acid concentrated](chemicals/SULFURIC_ACID_CONCENTRATED_7664-93-9.md)
+- [hydrogen chloride](chemicals/HYDROGEN_CHLORIDE_7647-01-0.md)
+- [nitric acid](chemicals/NITRIC_ACID_7697-37-2.md)
+- [potassium hydroxide](POTASSIUM_HYDROXIDE_1310-58-3.md)
+- [sulfuric acid concentrated](chemicals/SULFURIC_ACID_CONCENTRATED_7664-93-9.md)
+- [sodium hydroxide](SODIUM_HYDROXIDE_1310-73-2.md)

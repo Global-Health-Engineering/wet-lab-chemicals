@@ -2,8 +2,8 @@
 
 ## Basic information
 
-- Chemical formula: ${\rm HCl}$
-- Other names: Anhydrous hydrogen chloride, anhydrous hydrochloric acid
+- Chemical formula(s): ${\rm HCl}$
+- Other names: hydrogen chloride anhydrous, hydrochloric acid anhydrous
 - CAS: 7647-01-0
 - International Chemical Safety Card (ICSC): [0163](https://inchem.org/documents/icsc/icsc/eics0163.htm)
 - Flammability: no
@@ -14,7 +14,7 @@
 - **Flammability (red): 0** - material will not burn under typical fire conditions, including intrinsically noncombustible materials such as concrete, stone, and sand. Material will not burn in air unless exposed to a temperature of 820 °C for more than 5 minutes.
 - **Instability–reactivity (yellow): 1** - normally stable, but can become unstable at elevated temperatures and pressures.
 - **Special notice (white):**
-	- **ACID**
+	- **ACID** - acid.
 
 ## Hazard Statements
 
@@ -42,3 +42,5 @@
 - Natural latex or rubber: **good**.
 - Buthyl: **good**.
 - Nitrile: **good**.
+
+[Back to main page](https://github.com/Global-Health-Engineering/wet-lab-chemicals)
