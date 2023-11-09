@@ -20,11 +20,12 @@ In case of emergency in the laboratory:
 - [nitric acid](chemicals/NITRIC_ACID_7697-37-2.md)
 - [potassium hydroxide](chemicals/POTASSIUM_HYDROXIDE_1310-58-3.md)
 - [sulfuric acid concentrated](chemicals/SULFURIC_ACID_CONCENTRATED_7664-93-9.md)
+- [sodium acetate anhydrous](chemicals/SODIUM_ACETATE_ANHYDROUS_127-09-3.md)
 - [sodium hydroxide](chemicals/SODIUM_HYDROXIDE_1310-73-2.md)
 
 ## Code
 
-`src/populate_hazards_precautions.py` contains a piece of helper code to populate the hazard and precaution tables in material `md` files.
+`src/populate_hazards_precautions.py` contains a piece of helper code to populate the hazard and precaution tables in material-specific `md` files.
 
 ## Disclaimer
 
