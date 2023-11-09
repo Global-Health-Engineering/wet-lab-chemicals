@@ -256,6 +256,7 @@ def print_md_table_precautions(list_of_precautions):
         "P378":           "use ... to extinguish",
         "P380":           "evacuate area",
         "P381":           "in case of leakage, eliminate all ignition sources",
+        "P390":           "absorb spillage to prevent material damage",
         "P391":           "collect spillage",
         "P401":           "store in accordance with ...",
         "P402":           "store in a dry place.",
