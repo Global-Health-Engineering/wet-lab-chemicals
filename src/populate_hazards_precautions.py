@@ -123,7 +123,6 @@ def print_md_table_hazards(list_of_hazards):
     res = "| Code | Phrase |\n| ---- | ------ |\n"
     for hazard in list_of_hazards:
         res += f"| {hazard} | {d_hazards[hazard]} |\n"
-    
     print(res)
     
     return res
