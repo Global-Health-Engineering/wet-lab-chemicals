@@ -1,3 +1,6 @@
+import argparse
+
+
 def print_md_table_hazards(list_of_hazards):
     """
     Hazard statements form part of the Globally Harmonized System
@@ -290,15 +293,17 @@ def print_md_table_precautions(list_of_precautions):
 
 
 def main():
-    hexane_H = ["H225", "H302", "H305", "H315", "H336", "H361fd", "H373", "H411"]
-    hexane_P = ["P201", "P202", "P210", "P233", "P235", "P240", "P241", "P242", "P243", "P260", "P264", "P271", "P273", "P280", "P281", "P301+P330+P331", "P302+P352", "P303+P361+P353", "P304+P340", "P308+P313", "P310", "P312", "P314", "P332+P313", "P363", "P370+P378", "P391", "P403+P233", "P405", "P501"]
-    print_md_table_hazards(hexane_H)
-    print_md_table_precautions(hexane_P)
+    parser = argparse.ArgumentParser(description="return Markdown table of Hazards or Precautions")
+    parser.add_argument("s", type=str, help="string of Hazards or Precautins, never both at the same time")
+    args = parser.parse_args()
+
+    lst = [i.translate(str.maketrans('', '', ':,')).upper() for i in args.s.split()]
+
+    if lst[0][0] == "H":
+        print_md_table_hazards(lst)
+    elif lst[0][0] == "P":
+        print_md_table_precautions(lst)
 
 
 if __name__ == "__main__":
     main()
-
-
-
-
