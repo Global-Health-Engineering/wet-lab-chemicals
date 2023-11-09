@@ -12,11 +12,11 @@
 ## NFPA 704 (fire diamond)
 
 - **Health (blue): 3** - short exposure could cause serious temporary or moderate residual injury.
-- **Flammability (red): 0** - material will not burn under typical fire conditions, including intrinsically noncombustible materials such as concrete, stone, and sand. Material will not burn in air unless exposed to a temperature of 820 °C for more than 5 minutes.
+- **Flammability (red): 0** - will not burn under typical fire conditions, will not burn in air unless exposed to a temperature of 820 °C for more than 5 minutes.
 - **Instability–reactivity (yellow): 2** - undergoes violent chemical change at elevated temperatures and pressures, reacts violently with water, or may form explosive mixtures with water. 
 - **Special notice (white):**
 	- **W** - reacts with water in an unusual or dangerous manner.
-	- **OX** - oxidizer, allows chemicals to burn without an air supply.
+	- **OX** - oxidizer - allows chemicals to burn without an air supply.
 
 ## Hazard Statements
 
@@ -41,7 +41,7 @@
 | P405           | store locked up                                                                                                                  |
 | P501           | dispose of contents/container to [HCI-Shop](https://hci-shop.ethz.ch/en/)                                                                                      |
 
-## Suitable gloves
+## Skin protection (gloves)
 
 [Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) categorize gloves into four protection levels (very good, good, fair, poor (not recommended)) for given chemical. The levels of protection against concentrated sulfuric acid for four types of gloves are:
 

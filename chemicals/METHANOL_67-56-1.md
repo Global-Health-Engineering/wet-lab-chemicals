@@ -61,7 +61,7 @@
 | P405           | store locked up                                                                                                                  |
 | P501           | dispose of contents/container to [HCI-Shop](https://hci-shop.ethz.ch/en/)                                                        |
 
-## Suitable gloves
+## Skin protection (gloves)
 
 [Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) categorize gloves into four protection levels (very good, good, fair, poor (not recommended)) for given chemical. The levels of protection against methanol for four types of gloves are:
 

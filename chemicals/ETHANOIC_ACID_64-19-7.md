@@ -6,7 +6,7 @@
 - Other names: acetic acid, glacial acetic acid, ethylic acid, methanecarboxylic acid
 - CAS: 64-19-7
 - International Chemical Safety Card (ICSC): [0363](https://inchem.org/documents/icsc/icsc/eics0363.htm)
-- Flammability: **yes**
+- Flammability: **yes - moderately**
 - Description: clear colourless liquid with a strong odour of vinegar, corrosive to metals and tissue.
 
 ## NFPA 704 (fire diamond)
@@ -31,9 +31,9 @@
 | P305+P351+P338 | IF IN EYES: rinse continuously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
 | P310           | immediately call the ETH Emergency Desk: +41 44 342 11 88 (from mobile) or 888 (from landline)                                   |
 
-## Suitable gloves
+## Skin protection (gloves)
 
-[Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) categorize gloves into four protection levels (very good, good, fair, poor (not recommended)) for given chemical. The levels of protection against ... for four types of gloves are:
+[Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) categorize gloves into four protection levels (very good, good, fair, poor (not recommended)) for given chemical. The levels of protection against ethanoic acid for four types of gloves are:
 
 - Neoprane: **very good**.
 - Natural latex or rubber: **very good**.

@@ -35,7 +35,7 @@
 | P310           | immediately call the ETH Emergency Desk: +41 44 342 11 88 (from mobile) or 888 (from landline)                                   |
 | P410+P403      | protect from sunlight, store in a well ventilated place                                                                          |
 
-## Suitable gloves
+## Skin protection (gloves)
 
 [Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) categorize gloves into four protection levels (very good, good, fair, poor (not recommended)) for given chemical. The levels of protection against hydrogen chloride for four types of gloves are:
 

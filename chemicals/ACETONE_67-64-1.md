@@ -35,7 +35,7 @@
 | P260           | do not breathe dust/fume/gas/mist/vapours/spray                                                                                  |
 | P305+P351+P338 | IF IN EYES: rinse continuously with water for several minutes, remove contact lenses if present and easy to do, continue rinsing |
 
-## Suitable gloves
+## Skin protection (gloves)
 
 [Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) categorize gloves into four protection levels (very good, good, fair, poor (not recommended)) for given chemical. The levels of protection against acetone for four types of gloves are:
 
