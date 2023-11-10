@@ -2,7 +2,7 @@
 
 ## Basic information
 
-- Chemical formula(s): ${\rm (C_6H_5)_2CO}$, ${\rm Ph_2CO}$, ${\rm C_{13}H_{10}O}$
+- Chemical formula(s): ${\rm (C_6H_5)_{2}CO}$, ${\rm Ph_2CO}$, ${\rm C_{13}H_{10}O}$
 - Other names: diphenyl ketone, benzoylbenzene, phenyl ketone, diphenylmethanone
 - CAS: 119-61-9
 - International Chemical Safety Card (ICSC): [0389](https://www.inchem.org/documents/icsc/icsc/eics0389.htm)

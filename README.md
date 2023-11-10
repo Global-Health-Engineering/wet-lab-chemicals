@@ -33,6 +33,7 @@ This list contains only the chemicals for which the [International Peer Reviewed
 - [magnesium chloride anhydrous](chemicals/MAGNESIUM_CHLORIDE_ANHYDROUS_7786-30-3.md)
 - [magnesium oxide](chemicals/MAGNESIUM_OXIDE_1309-48-4.md)
 - [methanol](chemicals/METHANOL_67-56-1.md)
+- [methyl salicylate](chemicals/METHYL_SALICYLATE_119-36-8.md)
 - [nitric acid](chemicals/NITRIC_ACID_7697-37-2.md)
 - [potassium hydroxide](chemicals/POTASSIUM_HYDROXIDE_1310-58-3.md)
 - [sodium acetate anhydrous](chemicals/SODIUM_ACETATE_ANHYDROUS_127-09-3.md)
