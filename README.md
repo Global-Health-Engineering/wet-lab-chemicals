@@ -15,10 +15,12 @@ This list contains only the chemicals for which the [International Peer Reviewed
 *Click on a chemical to see the safety information.*
 
 - [1,1,1-trichloroethane](chemicals/1,1,1-TRICHLOROETHANE_71-55-6.md)
+- [3-pentanone (diethyl ketone)](chemicals/3-PENTANONE_96-22-0.md)
 - [acetone](chemicals/ACETONE_67-64-1.md)
 - [aluminium sulfate](chemicals/ALUMINIUM_SULFATE_10043-01-3.md)
 - [ammonium chloride](chemicals/AMMONIUM_CHLORIDE_12125-02-9.md)
 - [ammonium hydroxide (10% - 35% solution)](chemicals/AMMONIUM_HYDROXIDE_0.1-0.35_1336-21-6.md)
+- [benzophenone](chemicals/BENZOPHENONE_119-61-9.md)
 - [chlorobenzene](chemicals/CHLOROBENZENE_108-90-7.md)
 - [chloroform](chemicals/CHLOROFORM_67-66-3.md)
 - [ethanoic acid / acetic acid](chemicals/ETHANOIC_ACID_64-19-7.md)
@@ -38,6 +40,7 @@ This list contains only the chemicals for which the [International Peer Reviewed
 - [sodium hypochlorite (solution, active chlorine > 10%)](chemicals/SODIUM_HYPOCHLORITE_7681-52-9.md)
 - [sodium thiosulfate anhydrous](chemicals/SODIUM_THIOSULFATE_ANHYDROUS_7772-98-7.md)
 - [sulfuric acid concentrated](chemicals/SULFURIC_ACID_CONCENTRATED_7664-93-9.md)
+- [toluene](chemicals/TOLUENE_108-88-3.md)
 - [zinc sulfate](chemicals/ZINC_SULFATE_7733-02-0.md)
 
 ## Code
