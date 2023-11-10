@@ -46,11 +46,11 @@
 
 ## Skin protection (gloves)
 
-[Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) do not provide recommendation on gloves for handling sodium hypochlorite. [California State University](https://web.csulb.edu/colleges/cnsm/safety/documents/gloves.htm) categorizes gloves into three protection levels (good to excellent, fair, poor (not recommended)) for given chemical. The levels of protection against sodium hypochlorite for four types of gloves are:
+[Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) do not provide recommendation on gloves for handling sodium hypochlorite. [California State University](https://web.csulb.edu/colleges/cnsm/safety/documents/gloves.htm) categorizes gloves into four protection levels (excellent, good, fair, poor (not recommended)) for given chemical. The levels of protection against sodium hypochlorite for four types of gloves are:
 
 - Neoprane: N/A
-- Natural latex or rubber: **good to excellent**.
+- Natural latex or rubber: **excellent**.
 - Buthyl: N/A
-- Nitrile: **good to excellent**.
+- Nitrile: **excellent**.
 
 [Back to main page](https://github.com/Global-Health-Engineering/wet-lab-chemicals)

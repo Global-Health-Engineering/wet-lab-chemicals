@@ -46,7 +46,7 @@
 
 ## Skin protection (gloves)
 
-[Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) do not provide recommendation on gloves for handling sodium thiosulfate. [California State University](https://web.csulb.edu/colleges/cnsm/safety/documents/gloves.htm) categorizes gloves into three protection levels (good to excelent, fair, poor (not recommended)) for given chemical. The levels of protection against sodium thiosulfate for four types of gloves are:
+[Occupational Safety and Health Act of 1970](https://www.osha.gov/sites/default/files/publications/osha3151.pdf) and [OSHA Glove Selection Chart](https://safety.fsu.edu/safety_manual/OSHA%20Glove%20Selection%20Chart.pdf) do not provide recommendation on gloves for handling sodium thiosulfate. [California State University](https://web.csulb.edu/colleges/cnsm/safety/documents/gloves.htm) categorizes gloves into four protection levels (excellent, good, fair, poor (not recommended)) for given chemical. The levels of protection against sodium thiosulfate for four types of gloves are:
 
 - Neoprane: N/A.
 - Natural latex or rubber: **good**.
