@@ -7,7 +7,7 @@
 - CAS: 1309-48-4
 - International Chemical Safety Card (ICSC): [0504](https://inchem.org/documents/icsc/icsc/eics0504.htm)
 - Flammability: no
-- Description: white hygroscopic solid, often found as a powder
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/6945) description: white hygroscopic solid, often found as a powder
 
 ## NFPA 704 (fire diamond)
 

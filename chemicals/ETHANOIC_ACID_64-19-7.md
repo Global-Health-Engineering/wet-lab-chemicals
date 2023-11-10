@@ -7,7 +7,7 @@
 - CAS: 64-19-7
 - International Chemical Safety Card (ICSC): [0363](https://inchem.org/documents/icsc/icsc/eics0363.htm)
 - Flammability: **yes - moderately**
-- Description: clear colourless liquid with a strong odour of vinegar, corrosive to metals and tissue.
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/2272) description: clear colourless liquid with a strong odour of vinegar, corrosive to metals and tissue.
 
 ## NFPA 704 (fire diamond)
 

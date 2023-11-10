@@ -3,7 +3,7 @@
 ## Basic information
 
 - Chemical formula(s): ${\rm CH_3COONa}$, ${\rm C_2H_3NaO_2}$
-- Other names: acetic acid sodium salt, sodium acetate
+- Other names: acetic acid sodium salt
 - CAS: 127-09-3
 - International Chemical Safety Card (ICSC): [0565](https://inchem.org/documents/icsc/icsc/eics0565.htm)
 - Flammability: **yes - requires considerable preheating**

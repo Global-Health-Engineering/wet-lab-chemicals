@@ -7,7 +7,7 @@
 - CAS: 1310-58-3
 - International Chemical Safety Card (ICSC): [0375](https://inchem.org/documents/icsc/icsc/eics0357.htm)
 - Flammability: no
-- Description: clear aqueous solution, corrosive to metals and tissue.
+- NOAA's description ([solution](https://cameochemicals.noaa.gov/chemical/9013), [solid](https://cameochemicals.noaa.gov/chemical/9484)): clear aqueous solution, corrosive to metals and tissue.
 
 ## NFPA 704 (fire diamond)
 

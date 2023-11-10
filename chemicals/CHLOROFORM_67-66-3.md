@@ -7,7 +7,7 @@
 - CAS: 67-66-3
 - International Chemical Safety Card (ICSC): [0027](https://inchem.org/documents/icsc/icsc/eics0027.htm)
 - Flammability: no
-- Description: clear colourless liquid with a characteristic odour; denser than water and slightly soluble in water, hence sinks in water; nonflammable under most conditions, but burns under extreme conditions; may cause illness by inhalation, skin absorption or ingestion
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/2893) description: clear colourless liquid with a characteristic odour; denser than water and slightly soluble in water, hence sinks in water; nonflammable under most conditions, but burns under extreme conditions; may cause illness by inhalation, skin absorption or ingestion
 
 ## NFPA 704 (fire diamond)
 

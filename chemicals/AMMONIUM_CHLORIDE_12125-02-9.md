@@ -7,7 +7,7 @@
 - CAS: 12125-02-9
 - International Chemical Safety Card (ICSC): [1051](https://inchem.org/documents/icsc/icsc/eics1051.htm)
 - Flammability: no
-- Description: white crystalline solid, soluble in water, immediate steps should be taken to limit its spread to the environment
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/2422) description: white crystalline solid, soluble in water, immediate steps should be taken to limit its spread to the environment
 
 ## NFPA 704 (fire diamond)
 

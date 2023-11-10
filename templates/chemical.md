@@ -7,7 +7,7 @@
 - CAS: 
 - International Chemical Safety Card (ICSC): 
 - Flammability: 
-- Description: 
+- [NOAA's](https://cameochemicals.noaa.gov/) description: 
 
 ## NFPA 704 (fire diamond)
 

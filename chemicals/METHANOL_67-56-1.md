@@ -7,7 +7,7 @@
 - CAS: 67-56-1
 - International Chemical Safety Card (ICSC): [0057](https://inchem.org/documents/icsc/icsc/eics0057.htm)
 - Flammability: **yes - highly flammable**
-- Description: colourless fairly volatile liquid with a faintly sweet pungent odour, vapours slightly heavier than air may travel some distance to a source of ignition and flash back, accumulation of vapours may explode if ignited.
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/3874) description: colourless fairly volatile liquid with a faintly sweet pungent odour, vapours slightly heavier than air may travel some distance to a source of ignition and flash back, accumulation of vapours may explode if ignited.
 
 ## NFPA 704 (fire diamond)
 

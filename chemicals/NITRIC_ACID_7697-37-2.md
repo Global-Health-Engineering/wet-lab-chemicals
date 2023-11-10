@@ -7,7 +7,7 @@
 - CAS: 7697-37-2
 - International Chemical Safety Card (ICSC): [0183](https://inchem.org/documents/icsc/icsc/eics0183.htm)
 - Flammability: no
-- Description: pale yellow to reddish brown liquid generating red-brown fumes and having a suffocating odour, very toxic by inhalation, corrosive to metals and tissue
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/4044) description: pale yellow to reddish brown liquid generating red-brown fumes and having a suffocating odour, very toxic by inhalation, corrosive to metals and tissue
 
 ## NFPA 704 (fire diamond)
 

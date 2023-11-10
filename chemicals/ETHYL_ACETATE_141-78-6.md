@@ -7,7 +7,7 @@
 - CAS: 141-78-6
 - International Chemical Safety Card (ICSC): [0367](https://inchem.org/documents/icsc/icsc/eics0367.htm)
 - Flammability: **yes - highly flammable**
-- Description: clear colourless liquid with a fruity odor, less dense than water, vapours heavier than air
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/665) description: clear colourless liquid with a fruity odor, less dense than water, vapours heavier than air
 
 ## NFPA 704 (fire diamond)
 

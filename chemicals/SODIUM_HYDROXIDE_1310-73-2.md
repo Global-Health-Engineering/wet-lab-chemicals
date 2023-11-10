@@ -7,7 +7,7 @@
 - CAS: 1310-73-2
 - International Chemical Safety Card (ICSC): [0360](https://inchem.org/documents/icsc/icsc/eics0360.htm)
 - Flammability: no
-- Description: colourless liquid, more dense than water or white solid, corrosive to metals and tissue
+- NOAA's description ([solution](https://cameochemicals.noaa.gov/chemical/1499), [solid](https://cameochemicals.noaa.gov/chemical/9073)): colourless liquid, more dense than water or white solid, corrosive to metals and tissue
 
 ## NFPA 704 (fire diamond)
 

@@ -7,7 +7,7 @@
 - CAS: 7681-52-9
 - International Chemical Safety Card (ICSC): [1119](https://inchem.org/documents/icsc/icsc/eics1119.htm)
 - Flammability: no
-- Description: colourless or slightly yellow watery liquid with an odour of household bleach, mixes with water
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/4503) description: colourless or slightly yellow watery liquid with an odour of household bleach, mixes with water
 
 ## NFPA 704 (fire diamond)
 

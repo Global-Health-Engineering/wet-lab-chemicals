@@ -7,7 +7,7 @@
 - CAS: 1336-21-6
 - International Chemical Safety Card (ICSC): [0215](https://inchem.org/documents/icsc/icsc/eics0215.htm)
 - Flammability: **yes - requires considerable preheating**
-- Description: clear colouress liquid consisting, corrosive to tissue and metals. Although ammonia is lighter than air, the vapours from a leak will initially hug the ground
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/2434) description: clear colouress liquid consisting, corrosive to tissue and metals. Although ammonia is lighter than air, the vapours from a leak will initially hug the ground
 
 ## NFPA 704 (fire diamond)
 

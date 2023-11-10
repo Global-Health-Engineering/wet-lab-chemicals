@@ -7,7 +7,7 @@
 - CAS: 64-17-5
 - International Chemical Safety Card (ICSC): [0044](https://www.inchem.org/documents/icsc/icsc/eics0044.htm)
 - Flammability: **yes - highly flammable**
-- Description: clear colourless liquid with a characteristic vinous odour and pungent taste, vapours are heavier than air
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/667) description: clear colourless liquid with a characteristic vinous odour and pungent taste, vapours are heavier than air
 
 ## NFPA 704 (fire diamond)
 

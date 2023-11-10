@@ -7,7 +7,7 @@
 - CAS: 7705-08-0
 - International Chemical Safety Card (ICSC): [1499](https://inchem.org/documents/icsc/icsc/eics1499.htm)
 - Flammability: no
-- Description: orange to brown-black solid, slightly soluble in water; corrosive to aluminium and most metals, when wet
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/8680) description: orange to brown-black solid, slightly soluble in water; corrosive to aluminium and most metals, when wet
 
 ## NFPA 704 (fire diamond)
 

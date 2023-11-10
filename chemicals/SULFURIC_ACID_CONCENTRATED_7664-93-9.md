@@ -7,7 +7,7 @@
 - CAS: 7664-93-9
 - International Chemical Safety Card (ICSC): [0362](https://inchem.org/documents/icsc/icsc/eics0362.htm)
 - Flammability: no
-- Description: colourless oily liquid, soluble in water with release of heat, corrosive to metals and tissue, chars wood and most organic matter on contact, but unlikely to cause a fire.
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/5193) description: colourless oily liquid, soluble in water with release of heat, corrosive to metals and tissue, chars wood and most organic matter on contact, but unlikely to cause a fire.
 
 ## NFPA 704 (fire diamond)
 

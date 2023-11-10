@@ -7,7 +7,7 @@
 - CAS: 108-90-7
 - International Chemical Safety Card (ICSC): [0642](https://www.inchem.org/documents/icsc/icsc/eics0642.htm)
 - Flammability: **yes - highly flammable**
-- Description: colourless to clear, yellowish liquid with a sweet almond-like odour, practically insoluble in water and somewhat denser than water; vapours heavier than air
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/2877) description: colourless to clear, yellowish liquid with a sweet almond-like odour, practically insoluble in water and somewhat denser than water; vapours heavier than air
 
 ## NFPA 704 (fire diamond)
 

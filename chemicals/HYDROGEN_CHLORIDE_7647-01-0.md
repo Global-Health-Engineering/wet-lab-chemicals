@@ -7,7 +7,7 @@
 - CAS: 7647-01-0
 - International Chemical Safety Card (ICSC): [0163](https://inchem.org/documents/icsc/icsc/eics0163.htm)
 - Flammability: no
-- Description: colourless liquid/gas with a sharp, pungent odour, fumes strongly in moist air, corrosive to metals and tissues and irritating to the eyes and respiratory system, heavier than air.
+- [NOAA's](https://cameochemicals.noaa.gov/chemical/8731) description: colourless liquid/gas with a sharp, pungent odour, fumes strongly in moist air, corrosive to metals and tissues and irritating to the eyes and respiratory system, heavier than air.
 
 ## NFPA 704 (fire diamond)
 
