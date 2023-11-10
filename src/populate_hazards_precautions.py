@@ -297,7 +297,7 @@ def main():
     parser.add_argument("s", type=str, help="string of Hazards or Precautins, never both at the same time")
     args = parser.parse_args()
 
-    lst = [i.translate(str.maketrans('', '', ':,')).upper() for i in args.s.split()]
+    lst = [i.translate(str.maketrans('', '', ':,')) for i in args.s.split()]
 
     if lst[0][0] == "H":
         print_md_table_hazards(lst)
