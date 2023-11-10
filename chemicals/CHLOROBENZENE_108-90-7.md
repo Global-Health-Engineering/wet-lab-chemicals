@@ -12,7 +12,7 @@
 ## NFPA 704 (fire diamond)
 
 - **Health (blue): 3** - short exposure could cause serious temporary or moderate residual injury.
-- **Flammability (red): 3** - it can be ignited under almost all ambient temperature conditions. Its flash is 29 °C. It's autoignition temperature is 592 °C.
+- **Flammability (red): 3** - it can be ignited under almost all ambient temperature conditions. Its flash point is 29 °C. It's autoignition temperature is 592 °C.
 - **Instability–reactivity (yellow): 0** - normally stable, even under fire exposure conditions, and is not reactive with water.
 - **Special notice (white): -**
 
