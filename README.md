@@ -10,8 +10,11 @@ In case of emergency in the laboratory:
 3. inform prof. Elizabeth Tilley
 ## List of chemicals
 
-*(Click on a chemical to see the safety information).*
+This list contains only the chemicals for which the [International Peer Reviewed Chemical Safety Information](https://www.inchem.org/) provided the International Chemical Safety Card ([ICSC](https://www.inchem.org/pages/icsc.html)). Substances posing no risk, e.g., ${\rm NaCl}$ are not listed below.
 
+*Click on a chemical to see the safety information.*
+
+- [1,1,1-trichloroethane](chemicals/1,1,1-TRICHLOROETHANE_71-55-6.md)
 - [acetone](chemicals/ACETONE_67-64-1.md)
 - [aluminium sulfate](chemicals/ALUMINIUM_SULFATE_10043-01-3.md)
 - [ammonium chloride](chemicals/AMMONIUM_CHLORIDE_12125-02-9.md)
