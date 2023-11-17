@@ -14,7 +14,9 @@ This list contains only the chemicals for which the [International Peer Reviewed
 
 *Click on a chemical to see the safety information.*
 
+- [1-phenyldecane](chemicals/1-PHENYLDECANE_104-72-3.md)
 - [1,1,1-trichloroethane](chemicals/1,1,1-TRICHLOROETHANE_71-55-6.md)
+- [2,4,6-trichloroanisole](chemicals/2,4,6-TRICHLOROANISOLE_87-40-1.md)
 - [3-pentanone (diethyl ketone)](chemicals/3-PENTANONE_96-22-0.md)
 - [acetone](chemicals/ACETONE_67-64-1.md)
 - [aluminium sulfate](chemicals/ALUMINIUM_SULFATE_10043-01-3.md)
@@ -34,7 +36,9 @@ This list contains only the chemicals for which the [International Peer Reviewed
 - [magnesium oxide](chemicals/MAGNESIUM_OXIDE_1309-48-4.md)
 - [methanol](chemicals/METHANOL_67-56-1.md)
 - [methyl salicylate](chemicals/METHYL_SALICYLATE_119-36-8.md)
+- [methyl stearate](chemicals/METHYL_STEARATE_112-61-8.md)
 - [nitric acid](chemicals/NITRIC_ACID_7697-37-2.md)
+- [phenylcyclohexane](chemicals/PHENYLCYCLOHEXANE_827-52-1.md)
 - [potassium hydroxide](chemicals/POTASSIUM_HYDROXIDE_1310-58-3.md)
 - [sodium acetate anhydrous](chemicals/SODIUM_ACETATE_ANHYDROUS_127-09-3.md)
 - [sodium hydroxide](chemicals/SODIUM_HYDROXIDE_1310-73-2.md)
