@@ -1,4 +1,4 @@
-# 1-Phenyldecane
+# 1-phenyldecane
 
 ## Basic information
 
